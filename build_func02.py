@@ -1,10 +1,9 @@
-def main(a):
+def main():
     """
     Calculate the value of expression and return result:
 
     Returns:
         result: float
     """
-
-    return float(-2.55)
-print(main(-2.55))
+    return  3*((7//5)-(9//4))
+print(main())
