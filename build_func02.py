@@ -1,4 +1,4 @@
-def main():
+def main(a):
     """
     Calculate the value of expression and return result:
 
@@ -6,4 +6,5 @@ def main():
         result: float
     """
 
-    return
+    return float(a)
+print(main(5))
