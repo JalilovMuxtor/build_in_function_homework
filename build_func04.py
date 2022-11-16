@@ -6,4 +6,5 @@ def main(n):
     Returns:
         result : float
     """
-    return 
+    return float(4)
+print(main(4))
