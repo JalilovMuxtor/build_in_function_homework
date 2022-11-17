@@ -9,4 +9,4 @@ def main(n,x):
     """
     a = ((x)**n+(n)**x)
     return a
-print(main(3,6))
+print(main(3, 6))
