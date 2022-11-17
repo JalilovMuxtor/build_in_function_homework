@@ -7,4 +7,6 @@ def main(n,x):
     Returns:
         result : int
     """
-    return 
+    a = ((x)**n+(n)**x)
+    return a
+print(main(3,6))
