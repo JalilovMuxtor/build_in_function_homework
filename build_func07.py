@@ -7,4 +7,6 @@ def main(x,y):
     Returns:
         result : int
     """
-    return 
+    a = ((x)**2+6*(x)**3+3*x*y)
+    return a
+print(main(5,2))
