@@ -5,5 +5,6 @@ def main():
     Returns:
         result: float
     """
-    return  3*((7//5)-(9//4))
+    a = 3*((7/5)-(9/4))
+    return  a 
 print(main())
