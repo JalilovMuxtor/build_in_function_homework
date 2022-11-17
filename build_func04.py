@@ -6,5 +6,6 @@ def main(n):
     Returns:
         result : float
     """
-    return float(4)
+    x = ((2+n)/3)**2
+    return x
 print(main(4))
