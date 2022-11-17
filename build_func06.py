@@ -7,7 +7,6 @@ def main():
         result : float
     """
     a = round(3.456, 2)
-    b = round(7.5, 2)
-    return a, b
+    return a
 print(main())
  
